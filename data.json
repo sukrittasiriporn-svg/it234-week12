@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🍹",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
-    }
+    },
+     {
+      "id": 4,
+      "name": "ชาร้อน",
+      "price": 40,
+      "emoji": "🍵",
+      "available": false,
+      "tags": ["ร้อน", "ชา", "ขายดี"]
+     }
   ]
 }
